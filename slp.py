@@ -1,5 +1,8 @@
+#NADHIFA SOFIA
+#NIM : 15/378070/PA/16545
+#TUGAS 1 MACHINE LEARNING
 # SingeLayerPerceptron
-TUGAS 1 MACHINE LEARNING
+
 
 import numpy as np
 import pandas as pd
